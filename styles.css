@@ -1,0 +1,134 @@
+.link{
+    float: right;
+    margin-right: 30px;
+    margin-right: 100px;
+    color: white;
+    font-size: larger;
+ }
+
+a:hover{
+    color: aquamarine;
+}
+
+.logo{
+    width: 100;
+    height: 100px;
+    border-radius: 25%;
+    margin-left: 300px;
+}
+.picture{
+    float: right;
+    position: relative;
+    bottom: 180px;
+    right: 300px;
+    width: auto;
+    height: auto;
+    
+}
+.top{
+    background-color: #1F2937;
+    margin-bottom: 200px;
+    margin-top: 50px;
+    padding-bottom: 200px;
+}
+
+.button{
+    color: #3882f6;
+    border-radius: 10px;
+    
+}
+
+.group{
+    margin-left: 500px;
+    color: white;
+    padding-top: 200px;
+    font-size: large;
+ 
+}
+
+.prag{
+    font-size: larger;
+}
+
+.picture{
+   width: 400px;
+   height: 200px;
+}
+
+.logtext{
+    float: right;
+    position:relative;
+    right: 1370px;
+    bottom: 100px;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: monospace;
+    color: cyan;
+}
+
+.computer{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-family: sans-serif;
+}
+
+
+.container{
+    
+  display: flex;  
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+  margin-left: 200px;
+  font-size: 20px;
+  
+}
+
+.image:hover{
+    color: aqua;
+}
+
+.quote{
+    text-align: center;
+    margin-top: 50px;
+    background-color: #e5e7eb;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sign-up{
+    text-align: center;
+    border: solid #3882f6;
+    margin: 200px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#button{
+    float: right;
+    position: relative;
+    bottom: 60px;
+    right: 300px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: whitesmoke;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    margin-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
